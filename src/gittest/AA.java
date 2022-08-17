@@ -21,5 +21,7 @@ public class AA {
 		//AA S=new AA();
 		AA w=new AA(76);
 		
+		//done it
+		
 	}
 }
